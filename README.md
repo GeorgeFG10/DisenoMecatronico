@@ -2,6 +2,6 @@
 
 # Informacion de contacto
 
-* Nombre:
-* Edad:
-* Telefono:
+* Nombre:George
+* Edad:22
+* Telefono:5512345678
