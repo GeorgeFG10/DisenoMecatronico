@@ -1,10 +1,10 @@
-# DisenoMecatronico
+﻿# DisenoMecatronico
 
 # Informacion de contacto
 
-* Nombre:George
+* Nombre:George FG
 * Edad:22
 * Telefono:5512345678
-* Ciudad: Mexico
-* Delegación: Coyoacan
+* Ciudad: Roma
+* País: Italia
 * (Listo)
